@@ -1,14 +1,13 @@
-<h1 align="center">Bonjour je suis ADAMOU FATIHOU</h1>
+<h1 align="center">✨ Bonjour je suis ADAMOU FATIHOU ✨</h1>
 <h3 align="center">Developpeur Full Stack</h3>
 
-<img align="right" alt="coding" width="400" src="(https://github.com/A-Fatihou/A-Fatihou/assets/144955567/10f8096e-83c5-4e60-8088-b2d819e97abc)
-">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-fatihou&label=Profile%20views&color=0e75b6&style=flat" alt="a-fatihou" /> </p>
 
 - 📫 How to reach me **adamoufatihou@hotmail.com**
 
-- ⚡Mots clés qui me caractérisent **adaptabilité, efficacité, performance.**
+- ⚡Mots clés qui me caractérisent : **adaptabilité, efficacité, performance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
