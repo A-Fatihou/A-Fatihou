@@ -2,7 +2,7 @@
 <h1 align="center">✨ Bonjour je suis ADAMOU FATIHOU ✨</h1>
 <h3 align="center">Développeur Full Stack</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/A-Fatihou/A-Fatihou/assets/144955567/4441e95a-b30f-4197-948e-e317cb629606">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952c302yarnf93gcgv6dsw88z74x3cmn84gl1mdkgid&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-fatihou&label=Profile%20views&color=0e75b6&style=flat" alt="a-fatihou" /> </p>
 
