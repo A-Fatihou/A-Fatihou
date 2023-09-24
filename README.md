@@ -6,11 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-fatihou&label=Profile%20views&color=0e75b6&style=flat" alt="a-fatihou" /> </p>
 
+- Je suis a la recherche d'une entreprise pour faire mon alternance 
+
 - 📫 Comment me contacter : **adamoufatihou@hotmail.com ou +33754050333**
 
 - ⚡Mots clés qui me caractérisent : **adaptabilité, efficacité, performance.**
   
-- Je suis a la recherche d'une entreprise pour faire mon alternance 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
