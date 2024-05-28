@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-fatihou&show_icons=true&locale=en" alt="a-fatihou" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-fatihou&" alt="a-fatihou" /></p>
+![image](https://github.com/A-Fatihou/BrasRobotique/assets/144955567/6b0da324-9a88-43c2-95a4-68fd6f5e5605)
