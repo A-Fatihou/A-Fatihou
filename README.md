@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/fatihou-adamou/" target="blank"
+<a href="https://www.linkedin.com/in/fatihou-adamou/](https://www.linkedin.com/in/fatihou-adamou-technicien-robotique-industrie/" target="blank"
 ><img align="center" src="http://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatihou adamou" height="30" width="40" /></a>
 </p>
 
