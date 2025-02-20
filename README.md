@@ -1,4 +1,3 @@
-
 <h1 align="center">✨ Bonjour je suis ADAMOU FATIHOU ✨</h1>
 <h3 align="center">Technicien Polyvalent en Génie Électrique et Informatique Industrielle</h3>
 
@@ -14,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/fatihou-adamou/](https://www.linkedin.com/in/fatihou-adamou-technicien-robotique-industrie/" target="blank"
+<a href="https://www.linkedin.com/in/fatihou-adamou-technicien-robotique-industrie/" target="blank"
 ><img align="center" src="http://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatihou adamou" height="30" width="40" /></a>
 </p>
 
@@ -25,4 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-fatihou&show_icons=true&locale=en&layout=compact" alt="a-fatihou" /></p>
 
 ![image](https://github.com/A-Fatihou/BrasRobotique/assets/144955567/6b0da324-9a88-43c2-95a4-68fd6f5e5605)
-![image](https://cdn.discordapp.com/attachments/816311961158418452/1245022666243571712/image.png?ex=66573d37&is=6655ebb7&hm=bfa10b017a1a2f7498fbe5c3fcccf143eef5d5e241ecca45fdc1f274f60f689a&)
